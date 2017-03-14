@@ -13,5 +13,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/project-228499762619542864.appspot.com/o/Awaaz%2FScreenshot%20for%20symbol%20H.png?alt=media&token=78389516-99b0-479f-8a06-9d3ce314400a" width="350"/>
  
 </p>
+
 # Setup and running
+
 - First install python and opencv in your system the clone the repo and run initial.py.
