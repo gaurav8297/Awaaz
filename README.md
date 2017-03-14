@@ -14,4 +14,4 @@
  
 </p>
 # Setup and running
-First install python and opencv in your system the clone the repo and run initial.py.
+- First install python and opencv in your system the clone the repo and run initial.py.
